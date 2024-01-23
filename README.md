@@ -33,7 +33,7 @@ Make sure you have the following software installed:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/business-portfolio-nextjs.git
+git clone https://github.com/codekill21/Company-Agency-Portfolio
 
 # Navigate to the project directory
 cd business-portfolio-nextjs
